@@ -1,0 +1,5 @@
+{
+  "name": "Fairness-Aware Group Emotion Music System",
+  "description": "A group-adaptive music system that ensures emotional fairness in shared spaces by preventing minority emotion neglect.",
+  "requestFramePermissions": []
+}
